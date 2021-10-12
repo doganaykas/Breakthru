@@ -10,6 +10,6 @@ python game.py
 
 The GUI is set up for the assignment rules where each turn can be either played manually choosing the piece and placing it or by the implemented AI by clicking the AI button.
 
-![Alt text](/images/gui.png "Optional Title")
+![Alt text](/images/GUI.png "Optional Title")
 
 
